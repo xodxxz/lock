@@ -21,7 +21,7 @@ getgenv().ValiantAimHacks = {
     FOV = 13.7,
     HitChance = 100,
     Selected = LocalPlayer,
-    TargetPart = "Head", "UpperTorso", "HumanoidRootPart", "LowerTorso", "LeftHand", "RightHand", "LeftLowerArm", "RightLowerArm", "LeftUpperArm", "RightUpperArm", "LeftFoot", "LeftLowerLeg",  "LeftUpperLeg", "RightLowerLeg", "RightFoot",  "RightUpperLeg",
+    TargetPart = "Head",
     BlacklistedTeams = {
         {
             Team = LocalPlayer.Team,
